@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+form{
+	color:white;
+	font-weight: bold;
+	
+}
+
+input{
+	background-color:#a89ba5; 
+	font-size: 15px;
+}
+
+textarea{
+    background-color:#a89ba5; 
+	font-size: 15px;
+}
+
+#title{
+	float:left;
+}
+
+#between{
+	margin-left: 30px;
+}
+
+#submit{
+	margin:15px;
+	padding:5px;
+	color:white;
+}
